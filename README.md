@@ -1,4 +1,4 @@
-# Brand Guardian - AI-Powered Compliance Monitoring System
+# Brand Guardian - Multi Model AI Compliance System
 
 ## 📋 Overview
 
